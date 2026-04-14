@@ -20,4 +20,13 @@ package jp.co.sss.java100_questions_cac.lesson01.challenge02;
 
 public class Patisserie {
 
+	public static void main(String[] args) {
+
+		System.out.println("たいへんお待たせしました。");
+		System.out.println("【ポエール・ネルメ】");
+		System.out.println("ただいまより開店です！！");
+
+		System.out.println("本日のおすすめ商品です。\n\nシトロン\t\t\\250\nショコラ\t\t\\280\nピスターシュ\t\\320");
+
+	}
 }
